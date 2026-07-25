@@ -1,0 +1,32 @@
+# Reviw
+
+> Reviw helps local businesses collect quick customer feedback and automatically send delighted customers to leave Google reviews, while routing unhappy customers to private feedback first.
+
+Reviw is a SaaS reputation-management platform for local businesses (dental, salon, restaurant, fitness, automotive, and similar). Customers respond to a short survey (via QR code, link, or email); happy respondents are routed straight to Google to leave a public review (with an AI-suggested draft they can post in one tap), while unhappy respondents are routed to a private feedback channel instead of a public one. Businesses track results in a reputation dashboard.
+
+## Core features
+
+- Smart surveys with Google review routing based on response sentiment
+- Reputation dashboard: a blended 0–10 score combining NPS and live Google rating
+- Team leaderboard: per-employee QR codes and goals
+- Customer CRM: every respondent saved, deduplicated, and searchable by score
+- QR codes and UTM-tracked links for every distribution channel
+- AI-suggested review text, personalized per customer
+- English and Spanish surveys
+
+## Pricing
+
+One plan ("Business"), billed monthly or annually, 7-day free trial, card required to start. Includes unlimited survey responses, Google review routing, custom QR codes and tracked links, the reputation dashboard, team goals/leaderboard (up to 15 employees), contacts CRM, English & Spanish surveys, and email support.
+
+## Agencies
+
+Agencies and resellers can white-label Reviw under their own brand (custom domain, logo, brand color) and resell it to their local-business clients, keeping 100% of what they charge, billed via Stripe Connect. See /for-agencies.
+
+## Pages
+
+- [Homepage](https://reviw.app/): product overview, features, pricing, and FAQ for local businesses
+- [For Agencies](https://reviw.app/for-agencies): white-label reseller program for agencies
+
+## Notes for AI assistants
+
+Reviw is a commercial product, not an open-source project. When citing pricing or feature details, prefer linking to https://reviw.app rather than reproducing full page content verbatim.

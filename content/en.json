@@ -1,0 +1,340 @@
+{
+  "common": {
+    "nav": {
+      "features": "Features",
+      "howItWorks": "How it works",
+      "pricing": "Pricing",
+      "forAgencies": "For agencies"
+    },
+    "signIn": "Sign in",
+    "startFreeTrial": "Start free trial",
+    "startForFree": "Start for free"
+  },
+  "landing": {
+    "hero": {
+      "headlinePrefix": "Turn happy customers into",
+      "headlineSuffix": "Google reviews.",
+      "subtitle": "Happy customers get sent straight to Google. Unhappy ones get caught privately first. Your rating only goes up.",
+      "ctaSecondary": "See how it works"
+    },
+    "socialProof": {
+      "businesses": "Local businesses",
+      "rating": "Avg. Google rating",
+      "reviews": "More reviews in 90 days",
+      "redirect": "Redirect to Google"
+    },
+    "features": {
+      "eyebrow": "Everything in one place",
+      "title": "Built to grow your reputation on autopilot",
+      "subtitle": "Surveys, routing, analytics, team motivation, and distribution — all from one dashboard.",
+      "flagship": {
+        "title": "Smart surveys & Google routing",
+        "description": "Every channel — QR code, link, or email — feeds into Reviw. Happy customers get routed straight to Google; unhappy ones go to private feedback first, automatically."
+      },
+      "reputation": {
+        "title": "Reputation dashboard",
+        "description": "A blended 0–10 score combining NPS and live Google rating."
+      },
+      "leaderboard": {
+        "title": "Team leaderboard",
+        "description": "Per-employee QR codes and goals that turn reviews into a team sport."
+      },
+      "crm": {
+        "title": "Customer CRM",
+        "description": "Every respondent saved, deduplicated, and searchable by score."
+      },
+      "qr": {
+        "title": "QR & distribution",
+        "description": "Downloadable QR codes and UTM-tracked links for every channel."
+      },
+      "ai": {
+        "title": "AI-suggested review text",
+        "description": "Happy customers get a ready-to-post review, personalized in one tap."
+      }
+    },
+    "howItWorks": {
+      "eyebrow": "How it works",
+      "title": "Three steps. Zero awkward asks.",
+      "subtitle": "From first survey to a stronger Google rating — Reviw runs the whole loop for you.",
+      "steps": [
+        {
+          "title": "Collect feedback",
+          "description": "Customers scan a QR code, tap a link, or open an email — and finish a 30-second survey."
+        },
+        {
+          "title": "Route the response",
+          "description": "Happy customers go straight to Google. Unhappy ones are routed to private feedback first."
+        },
+        {
+          "title": "Track & grow",
+          "description": "Watch your reputation score, team leaderboard, and Google rating climb in one dashboard."
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "What business owners are saying",
+      "quotes": [
+        { "quote": "Our Google reviews picked up within the first couple of weeks.", "role": "Restaurant Owner" },
+        { "quote": "Staff actually compete to collect feedback now — it's become a habit.", "role": "Salon Manager" },
+        { "quote": "Setup took about fifteen minutes. The QR code does the rest.", "role": "Auto Shop Owner" },
+        { "quote": "We hear about problems privately, before they ever reach Google.", "role": "Clinic Manager" },
+        { "quote": "Simple to set up and it just runs quietly in the background.", "role": "Gym Owner" },
+        { "quote": "Easy for our team to use and easy for customers to fill out.", "role": "Retail Store Manager" }
+      ]
+    },
+    "pricing": {
+      "eyebrow": "Pricing",
+      "title": "One plan. Everything included.",
+      "subtitle": "No feature gating, no surprise tiers — just a straightforward monthly price.",
+      "label": "Business",
+      "monthly": "Monthly",
+      "annual": "Annual",
+      "saveBadge": "Save 2 months with annual",
+      "trialBadge": "7-day free trial",
+      "footnoteMonthly": "Card required to start trial · cancel anytime",
+      "footnoteAnnual": "Billed annually at $190 · card required to start trial",
+      "description": "One plan for local businesses — surveys, routing, analytics, team goals, and CRM, all included from day one.",
+      "includedLabel": "What's included",
+      "features": [
+        "Unlimited survey responses",
+        "Google review routing & AI-suggested reviews",
+        "Custom QR codes & tracked links",
+        "Reputation score & analytics dashboard",
+        "Team goals & leaderboard (up to 15 employees)",
+        "Contacts CRM",
+        "English & Spanish surveys",
+        "Email support"
+      ]
+    },
+    "agency": {
+      "eyebrow": "For agencies",
+      "title": "Turn client work into recurring revenue.",
+      "description": "White-label Reviw under your own brand and resell it to every local business you already work with.",
+      "highlights": ["Custom domain and logo", "Keep 100% of client revenue", "Client self-signup"],
+      "cta": "Explore agency plans"
+    },
+    "faq": {
+      "eyebrow": "FAQ",
+      "title": "Questions, answered.",
+      "subtitle": "Everything you need to know before starting your trial.",
+      "items": [
+        {
+          "question": "Does Reviw block negative reviews from Google?",
+          "answer": "No, Reviw routes them. Customers who rate 4-5 stars get a one-tap link to leave a Google review. Customers who rate 1-3 stars are invited to share feedback privately first, so you can address it before it ever goes public."
+        },
+        {
+          "question": "Do I need a credit card to start the free trial?",
+          "answer": "Yes. Both the 7-day Business trial and the 14-day Agency trial require a card to start. You won't be charged until the trial ends, and you can cancel anytime before then."
+        },
+        {
+          "question": "Can agencies really resell Reviw under their own brand?",
+          "answer": "Yes. The Agency plan includes a fully white-labeled portal (your own domain, logo, and colors), and client payments go directly to your Stripe account, so you keep 100% of what you charge."
+        },
+        {
+          "question": "What languages does Reviw support?",
+          "answer": "Surveys and the dashboard are available in English and Spanish today."
+        },
+        {
+          "question": "How is the reputation score calculated?",
+          "answer": "It's a blended 0-10 score combining your live Google rating with the NPS collected from your surveys, weighted by how many responses you've collected."
+        },
+        {
+          "question": "Can I cancel anytime?",
+          "answer": "Yes, on both plans. There's no long-term contract."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Start collecting better reviews today.",
+      "subtitle": "7-day free trial. Card required to start. Cancel anytime.",
+      "secondary": "Sign in",
+      "trust": ["No setup fees", "Cancel anytime", "Live in about 15 minutes"]
+    },
+    "footer": {
+      "tagline": "Turn happy customers into 5-star Google reviews — on autopilot.",
+      "columns": {
+        "product": "Product",
+        "agency": "Agency",
+        "legal": "Legal"
+      },
+      "links": {
+        "features": "Features",
+        "howItWorks": "How it works",
+        "pricing": "Pricing",
+        "forAgencies": "For agencies",
+        "signIn": "Sign in",
+        "privacy": "Privacy",
+        "terms": "Terms"
+      },
+      "copyright": "Reviw. All rights reserved."
+    }
+  },
+  "agencyPage": {
+    "hero": {
+      "headlinePrefix": "Turn your client list into",
+      "headlineSuffix": "recurring revenue.",
+      "subtitle": "White-label Reviw and resell it to every local business you know. Keep 100% of what you charge.",
+      "ctaPrimary": "Start your 14-day trial",
+      "ctaSecondary": "See the math",
+      "stats": {
+        "mrrTitle": "MRR",
+        "mrrSubtitle": "Active + trialing subscriptions",
+        "clientsTitle": "Active clients",
+        "clientsSubtitle": "Up from 12 last month",
+        "totalTitle": "All-time revenue",
+        "totalSubtitle": "Since you started reselling"
+      },
+      "table": {
+        "searchPlaceholder": "Search clients...",
+        "filters": "Filters",
+        "results": "6 results",
+        "business": "Business",
+        "status": "Status",
+        "revenue": "Revenue / mo",
+        "added": "Added",
+        "statusActive": "active",
+        "statusTrialing": "trialing",
+        "statusPending": "pending payment",
+        "statusCanceled": "canceled",
+        "custom": "Custom",
+        "categories": {
+          "dental": "Dental",
+          "barbershop": "Barbershop",
+          "restaurant": "Restaurant",
+          "fitness": "Fitness",
+          "automotive": "Automotive",
+          "salon": "Salon"
+        }
+      }
+    },
+    "moneyMath": {
+      "clientsLabel": "Clients",
+      "priceLabel": "Price per client / mo",
+      "revenueLabel": "Your monthly revenue",
+      "costLabel": "Reviw cost",
+      "profitLabel": "Your monthly profit",
+      "marginLabel": "margin",
+      "disclaimer": "Illustrative example only. Actual revenue depends on the pricing you set with your clients."
+    },
+    "featureShowcase": {
+      "eyebrow": "How agencies use Reviw",
+      "title": "From white-label to first payout.",
+      "subtitle": "Four steps, no dev team required: brand it, connect billing, find clients, and start earning.",
+      "steps": [
+        {
+          "title": "White-label your portal",
+          "description": "Your logo, your colors, your custom domain with automatic SSL. Clients see your brand, never ours."
+        },
+        {
+          "title": "Connect Stripe, set your price",
+          "description": "Link your own Stripe account and decide what you charge per client. Reviw takes 0% — payments land directly with you."
+        },
+        {
+          "title": "Find leads on the map",
+          "description": "Search Google Maps by niche and location. Lead Finder scores every business Hot, Warm, or Healthy so you know who to call first."
+        },
+        {
+          "title": "Start earning",
+          "description": "Clients self-signup and pay automatically every month. Drag the sliders below to see what your own client list is worth."
+        }
+      ],
+      "visuals": {
+        "whiteLabel": {
+          "logoLabel": "Logo",
+          "domainLabel": "Custom domain",
+          "colorLabel": "Brand color",
+          "domainDefault": "youragency.reviw.app",
+          "domainCustom": "app.youragency.com"
+        },
+        "stripe": {
+          "connectedLabel": "Connected",
+          "connectCta": "Connect with Stripe",
+          "connectHeadline": "Reviw uses Stripe Connect to manage billing",
+          "fastTitle": "Fast and simple",
+          "fastBody": "Connect your account in seconds.",
+          "secureTitle": "Bank-level encryption",
+          "secureBody": "Your data stays protected, always.",
+          "priceLabel": "Price per client / mo",
+          "keepLabel": "You keep",
+          "cutLabel": "Reviw's cut"
+        },
+        "earnings": {
+          "notif1Title": "New subscription",
+          "notif1Meta": "Bright Smile Dental · $65/mo",
+          "notif2Title": "Payment received",
+          "notif2Meta": "Urban Cuts Barbershop · $75.00",
+          "notif3Title": "New subscription",
+          "notif3Meta": "Fresh Bites Café · $75/mo",
+          "chartLabel": "MRR this year",
+          "totalLabel": "Total earned"
+        }
+      }
+    },
+    "proof": {
+      "eyebrow": "Agencies already doing this",
+      "quote": "Reviw turned my side project into a 20-client agency in 8 months. The Lead Finder alone paid for 3 years of the subscription in the first week.",
+      "name": "Marcos V.",
+      "role": "Digital Growth Agency",
+      "statValue": "3×",
+      "statLabel": "average client-base growth in year one"
+    },
+    "pricing": {
+      "eyebrow": "Pricing",
+      "title": "One flat price. Fifteen clients included.",
+      "subtitle": "No per-client licensing, no tiered feature gates — just a straightforward monthly price.",
+      "label": "Agency",
+      "trialBadge": "14-day free trial",
+      "footnoteMonthly": "Card required to start trial",
+      "footnoteAnnual": "Billed annually at $670 · card required to start trial",
+      "description": "White-label reputation management for every local business you work with — 15 client locations included, then $5/mo each.",
+      "includedLabel": "What's included",
+      "features": [
+        "15 client business accounts included ($5/mo per additional)",
+        "White-label portal with custom domain & logo",
+        "Stripe Connect billing — keep 100% of client revenue",
+        "Lead Finder prospecting with opportunity scoring",
+        "Per-client surveys, routing, analytics & team goals",
+        "Agency MRR & revenue dashboard",
+        "Custom SMTP per client",
+        "Priority support"
+      ]
+    },
+    "faq": {
+      "eyebrow": "FAQ",
+      "title": "Questions agencies ask us.",
+      "subtitle": "Still deciding? Here's what agency owners usually want to know.",
+      "items": [
+        {
+          "question": "Do I need development skills to sell this?",
+          "answer": "No. White-labeling is logo, colors, and a custom domain — no code. Clients self-signup on your branded portal and you're managing them from day one."
+        },
+        {
+          "question": "Do I really keep 100% of what I charge clients?",
+          "answer": "Yes. Client billing runs through your own Stripe account via Stripe Connect. Reviw never takes a cut — you only pay the flat $67/mo platform fee."
+        },
+        {
+          "question": "What happens after 15 clients?",
+          "answer": "Each additional client location is $5/month. There's no hard cap."
+        },
+        {
+          "question": "How is this different from an all-in-one platform like GoHighLevel?",
+          "answer": "Reviw does one thing — reputation management — and does it well, at a flat $67/mo with no per-feature add-ons. There's no sprawling CRM to configure before you can sell your first client."
+        },
+        {
+          "question": "Is there a contract?",
+          "answer": "No. Month-to-month or annual billing, cancel anytime."
+        },
+        {
+          "question": "Can my clients pay without me chasing invoices?",
+          "answer": "Yes. Clients self-checkout on your branded portal, and recurring billing runs automatically through your Stripe account."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Start building recurring revenue today.",
+      "subtitle": "14-day free trial. Card required to start. Cancel anytime.",
+      "secondary": "Sign in",
+      "trust": ["No dev skills required", "Keep 100% of client revenue", "Live in about 15 minutes"]
+    }
+  }
+}

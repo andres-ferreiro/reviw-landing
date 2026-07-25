@@ -1,0 +1,340 @@
+{
+  "common": {
+    "nav": {
+      "features": "Funciones",
+      "howItWorks": "Cómo funciona",
+      "pricing": "Precios",
+      "forAgencies": "Para agencias"
+    },
+    "signIn": "Iniciar sesión",
+    "startFreeTrial": "Prueba gratis",
+    "startForFree": "Empieza gratis"
+  },
+  "landing": {
+    "hero": {
+      "headlinePrefix": "Convierte a tus clientes felices en",
+      "headlineSuffix": "reseñas de Google.",
+      "subtitle": "Los clientes felices son enviados directo a Google. A los insatisfechos los atendemos en privado primero. Tu calificación solo puede subir.",
+      "ctaSecondary": "Ver cómo funciona"
+    },
+    "socialProof": {
+      "businesses": "Negocios locales",
+      "rating": "Calificación promedio en Google",
+      "reviews": "Más reseñas en 90 días",
+      "redirect": "Redirigidos a Google"
+    },
+    "features": {
+      "eyebrow": "Todo en un solo lugar",
+      "title": "Diseñado para hacer crecer tu reputación en automático",
+      "subtitle": "Encuestas, enrutamiento, analítica, motivación de equipo y distribución — todo desde un solo panel.",
+      "flagship": {
+        "title": "Encuestas inteligentes y enrutamiento a Google",
+        "description": "Cada canal — código QR, enlace o correo — llega a Reviw. Los clientes felices son enviados directo a Google; los insatisfechos van primero a comentarios privados, automáticamente."
+      },
+      "reputation": {
+        "title": "Panel de reputación",
+        "description": "Una puntuación combinada de 0 a 10 que une el NPS y tu calificación de Google en vivo."
+      },
+      "leaderboard": {
+        "title": "Tabla de posiciones del equipo",
+        "description": "Códigos QR y metas por empleado que convierten las reseñas en un juego de equipo."
+      },
+      "crm": {
+        "title": "CRM de clientes",
+        "description": "Cada respuesta guardada, sin duplicados y buscable por puntuación."
+      },
+      "qr": {
+        "title": "Códigos QR y distribución",
+        "description": "Códigos QR descargables y enlaces con seguimiento UTM para cada canal."
+      },
+      "ai": {
+        "title": "Texto de reseña sugerido por IA",
+        "description": "Los clientes felices reciben una reseña lista para publicar, personalizada con un toque."
+      }
+    },
+    "howItWorks": {
+      "eyebrow": "Cómo funciona",
+      "title": "Tres pasos. Cero pedidos incómodos.",
+      "subtitle": "Desde la primera encuesta hasta una mejor calificación en Google — Reviw se encarga de todo el proceso.",
+      "steps": [
+        {
+          "title": "Recibe la opinión",
+          "description": "Los clientes escanean un código QR, tocan un enlace o abren un correo — y completan una encuesta de 30 segundos."
+        },
+        {
+          "title": "Enruta la respuesta",
+          "description": "Los clientes felices van directo a Google. Los insatisfechos son enviados primero a comentarios privados."
+        },
+        {
+          "title": "Monitorea y crece",
+          "description": "Observa tu puntuación de reputación, la tabla de posiciones del equipo y tu calificación de Google subir en un solo panel."
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Lo que dicen los dueños de negocios",
+      "quotes": [
+        { "quote": "Nuestras reseñas de Google aumentaron en las primeras semanas.", "role": "Dueño de restaurante" },
+        { "quote": "El equipo ahora compite por recolectar opiniones — se volvió un hábito.", "role": "Gerente de salón de belleza" },
+        { "quote": "La configuración tomó unos quince minutos. El código QR hace el resto.", "role": "Dueño de taller mecánico" },
+        { "quote": "Nos enteramos de los problemas en privado, antes de que lleguen a Google.", "role": "Gerente de clínica" },
+        { "quote": "Fácil de configurar y funciona en segundo plano sin complicaciones.", "role": "Dueño de gimnasio" },
+        { "quote": "Fácil de usar para el equipo y fácil de llenar para los clientes.", "role": "Gerente de tienda" }
+      ]
+    },
+    "pricing": {
+      "eyebrow": "Precios",
+      "title": "Un plan. Todo incluido.",
+      "subtitle": "Sin restricciones por función, sin niveles sorpresa — solo un precio mensual claro.",
+      "label": "Negocio",
+      "monthly": "Mensual",
+      "annual": "Anual",
+      "saveBadge": "Ahorra 2 meses pagando anual",
+      "trialBadge": "7 días de prueba gratis",
+      "footnoteMonthly": "Se requiere tarjeta para iniciar la prueba · cancela cuando quieras",
+      "footnoteAnnual": "Facturado anualmente a $190 · se requiere tarjeta para iniciar la prueba",
+      "description": "Un plan para negocios locales — encuestas, enrutamiento, analítica, metas de equipo y CRM, todo incluido desde el primer día.",
+      "includedLabel": "Qué incluye",
+      "features": [
+        "Respuestas de encuesta ilimitadas",
+        "Enrutamiento a Google y reseñas sugeridas por IA",
+        "Códigos QR personalizados y enlaces con seguimiento",
+        "Puntuación de reputación y panel de analítica",
+        "Metas y tabla de posiciones del equipo (hasta 15 empleados)",
+        "CRM de contactos",
+        "Encuestas en inglés y español",
+        "Soporte por correo electrónico"
+      ]
+    },
+    "agency": {
+      "eyebrow": "Para agencias",
+      "title": "Convierte el trabajo con tus clientes en ingresos recurrentes.",
+      "description": "Ofrece Reviw con tu propia marca y revéndelo a cada negocio local con el que ya trabajas.",
+      "highlights": ["Dominio y logo personalizados", "Conserva el 100% de los ingresos de tus clientes", "Tus clientes se registran solos"],
+      "cta": "Explora los planes para agencias"
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "title": "Tus dudas, resueltas.",
+      "subtitle": "Todo lo que necesitas saber antes de comenzar tu prueba.",
+      "items": [
+        {
+          "question": "¿Reviw bloquea las reseñas negativas en Google?",
+          "answer": "No, Reviw las redirige. Los clientes que califican con 4-5 estrellas reciben un enlace directo para dejar una reseña en Google. Los que califican con 1-3 estrellas son invitados a compartir su opinión en privado primero, para que puedas resolverlo antes de que se haga público."
+        },
+        {
+          "question": "¿Necesito una tarjeta de crédito para iniciar la prueba gratis?",
+          "answer": "Sí. Tanto la prueba de 7 días para Negocios como la de 14 días para Agencias requieren una tarjeta para iniciar. No se te cobrará hasta que termine la prueba, y puedes cancelar en cualquier momento antes de eso."
+        },
+        {
+          "question": "¿Las agencias realmente pueden revender Reviw con su propia marca?",
+          "answer": "Sí. El plan de Agencias incluye un portal completamente personalizado (tu propio dominio, logo y colores), y los pagos de tus clientes van directo a tu cuenta de Stripe, así que conservas el 100% de lo que cobras."
+        },
+        {
+          "question": "¿Qué idiomas soporta Reviw?",
+          "answer": "Las encuestas y el panel están disponibles en inglés y español actualmente."
+        },
+        {
+          "question": "¿Cómo se calcula la puntuación de reputación?",
+          "answer": "Es una puntuación combinada de 0 a 10 que une tu calificación de Google en vivo con el NPS recolectado en tus encuestas, ajustada según la cantidad de respuestas que hayas recibido."
+        },
+        {
+          "question": "¿Puedo cancelar cuando quiera?",
+          "answer": "Sí, en ambos planes. No hay contrato de permanencia."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Empieza a recolectar mejores reseñas hoy.",
+      "subtitle": "7 días de prueba gratis. Se requiere tarjeta para iniciar. Cancela cuando quieras.",
+      "secondary": "Iniciar sesión",
+      "trust": ["Sin costos de instalación", "Cancela cuando quieras", "Listo en unos 15 minutos"]
+    },
+    "footer": {
+      "tagline": "Convierte a tus clientes felices en reseñas de Google de 5 estrellas — en automático.",
+      "columns": {
+        "product": "Producto",
+        "agency": "Agencia",
+        "legal": "Legal"
+      },
+      "links": {
+        "features": "Funciones",
+        "howItWorks": "Cómo funciona",
+        "pricing": "Precios",
+        "forAgencies": "Para agencias",
+        "signIn": "Iniciar sesión",
+        "privacy": "Privacidad",
+        "terms": "Términos"
+      },
+      "copyright": "Reviw. Todos los derechos reservados."
+    }
+  },
+  "agencyPage": {
+    "hero": {
+      "headlinePrefix": "Convierte tu cartera de clientes en",
+      "headlineSuffix": "ingresos recurrentes.",
+      "subtitle": "Personaliza Reviw con tu marca y revéndelo a cada negocio local que conoces. Quédate con el 100% de lo que cobras.",
+      "ctaPrimary": "Empieza tu prueba de 14 días",
+      "ctaSecondary": "Ver el cálculo",
+      "stats": {
+        "mrrTitle": "MRR",
+        "mrrSubtitle": "Suscripciones activas + en prueba",
+        "clientsTitle": "Clientes activos",
+        "clientsSubtitle": "Subió de 12 el mes pasado",
+        "totalTitle": "Ingresos totales",
+        "totalSubtitle": "Desde que empezaste a revender"
+      },
+      "table": {
+        "searchPlaceholder": "Buscar clientes...",
+        "filters": "Filtros",
+        "results": "6 resultados",
+        "business": "Negocio",
+        "status": "Estado",
+        "revenue": "Ingresos / mes",
+        "added": "Añadido",
+        "statusActive": "active",
+        "statusTrialing": "trialing",
+        "statusPending": "pending payment",
+        "statusCanceled": "canceled",
+        "custom": "Custom",
+        "categories": {
+          "dental": "Dental",
+          "barbershop": "Barbería",
+          "restaurant": "Restaurante",
+          "fitness": "Fitness",
+          "automotive": "Automotriz",
+          "salon": "Salón"
+        }
+      }
+    },
+    "moneyMath": {
+      "clientsLabel": "Clientes",
+      "priceLabel": "Precio por cliente / mes",
+      "revenueLabel": "Tu ingreso mensual",
+      "costLabel": "Costo de Reviw",
+      "profitLabel": "Tu ganancia mensual",
+      "marginLabel": "margen",
+      "disclaimer": "Ejemplo ilustrativo. El ingreso real depende del precio que definas con tus clientes."
+    },
+    "featureShowcase": {
+      "eyebrow": "Cómo las agencias usan Reviw",
+      "title": "Del portal con tu marca al primer pago.",
+      "subtitle": "Cuatro pasos, sin equipo de desarrollo: personaliza, conecta los cobros, encuentra clientes y empieza a ganar.",
+      "steps": [
+        {
+          "title": "Personaliza tu portal",
+          "description": "Tu logo, tus colores, tu dominio propio con SSL automático. Tus clientes ven tu marca, nunca la nuestra."
+        },
+        {
+          "title": "Conecta Stripe, define tu precio",
+          "description": "Vincula tu propia cuenta de Stripe y decide cuánto cobras por cliente. Reviw no cobra comisión: los pagos llegan directo a ti."
+        },
+        {
+          "title": "Encuentra clientes en el mapa",
+          "description": "Busca en Google Maps por rubro y ubicación. Lead Finder clasifica cada negocio como Alta, Media o Baja oportunidad para que sepas a quién llamar primero."
+        },
+        {
+          "title": "Empieza a ganar",
+          "description": "Tus clientes se registran solos y pagan automáticamente cada mes. Mueve los controles para ver cuánto vale tu propia cartera de clientes."
+        }
+      ],
+      "visuals": {
+        "whiteLabel": {
+          "logoLabel": "Logo",
+          "domainLabel": "Dominio propio",
+          "colorLabel": "Color de marca",
+          "domainDefault": "tuagencia.reviw.app",
+          "domainCustom": "app.tuagencia.com"
+        },
+        "stripe": {
+          "connectedLabel": "Conectado",
+          "connectCta": "Conectar con Stripe",
+          "connectHeadline": "Reviw usa Stripe Connect para gestionar los cobros",
+          "fastTitle": "Rápido y sencillo",
+          "fastBody": "Conecta tu cuenta en segundos.",
+          "secureTitle": "Cifrado de nivel bancario",
+          "secureBody": "Tus datos siempre están protegidos.",
+          "priceLabel": "Precio por cliente / mes",
+          "keepLabel": "Tú te quedas con",
+          "cutLabel": "Comisión de Reviw"
+        },
+        "earnings": {
+          "notif1Title": "Nueva suscripción",
+          "notif1Meta": "Bright Smile Dental · $65/mes",
+          "notif2Title": "Pago recibido",
+          "notif2Meta": "Urban Cuts Barbershop · $75.00",
+          "notif3Title": "Nueva suscripción",
+          "notif3Meta": "Fresh Bites Café · $75/mes",
+          "chartLabel": "MRR este año",
+          "totalLabel": "Total ganado"
+        }
+      }
+    },
+    "proof": {
+      "eyebrow": "Agencias que ya lo hacen",
+      "quote": "Reviw convirtió mi proyecto paralelo en una agencia de 20 clientes en 8 meses. Solo el Lead Finder pagó 3 años de la suscripción en la primera semana.",
+      "name": "Marcos V.",
+      "role": "Agencia de Crecimiento Digital",
+      "statValue": "3×",
+      "statLabel": "crecimiento promedio de cartera en el primer año"
+    },
+    "pricing": {
+      "eyebrow": "Precios",
+      "title": "Un precio fijo. Quince clientes incluidos.",
+      "subtitle": "Sin licencias por cliente, sin niveles con funciones bloqueadas — solo un precio mensual claro.",
+      "label": "Agencia",
+      "trialBadge": "14 días de prueba gratis",
+      "footnoteMonthly": "Se requiere tarjeta para iniciar la prueba",
+      "footnoteAnnual": "Facturado anualmente a $670 · se requiere tarjeta para iniciar la prueba",
+      "description": "Gestión de reputación con tu marca para cada negocio local con el que trabajas — 15 ubicaciones de clientes incluidas, luego $5/mes cada una.",
+      "includedLabel": "Qué incluye",
+      "features": [
+        "15 cuentas de negocios cliente incluidas ($5/mes por adicional)",
+        "Portal con tu marca, dominio propio y logo",
+        "Cobros con Stripe Connect — quédate con el 100% del ingreso de tus clientes",
+        "Prospección con Lead Finder y puntaje de oportunidad",
+        "Encuestas, enrutamiento, analítica y metas de equipo por cliente",
+        "Panel de MRR e ingresos de agencia",
+        "SMTP propio por cliente",
+        "Soporte prioritario"
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "title": "Lo que preguntan las agencias.",
+      "subtitle": "¿Sigues decidiendo? Esto es lo que los dueños de agencias suelen querer saber.",
+      "items": [
+        {
+          "question": "¿Necesito conocimientos de desarrollo para vender esto?",
+          "answer": "No. Personalizar la marca es solo logo, colores y dominio propio — sin código. Tus clientes se registran solos en tu portal y tú los gestionas desde el primer día."
+        },
+        {
+          "question": "¿De verdad me quedo con el 100% de lo que cobro a mis clientes?",
+          "answer": "Sí. El cobro a clientes pasa por tu propia cuenta de Stripe mediante Stripe Connect. Reviw nunca cobra comisión — solo pagas la cuota fija de $67/mes de la plataforma."
+        },
+        {
+          "question": "¿Qué pasa después de 15 clientes?",
+          "answer": "Cada ubicación de cliente adicional cuesta $5/mes. No hay límite máximo."
+        },
+        {
+          "question": "¿En qué se diferencia de una plataforma todo-en-uno como GoHighLevel?",
+          "answer": "Reviw hace una sola cosa — gestión de reputación — y la hace bien, por $67/mes fijos sin complementos por función. No hay un CRM enorme que configurar antes de vender tu primer cliente."
+        },
+        {
+          "question": "¿Hay contrato?",
+          "answer": "No. Facturación mensual o anual, cancela cuando quieras."
+        },
+        {
+          "question": "¿Mis clientes pueden pagar sin que yo tenga que perseguir facturas?",
+          "answer": "Sí. Tus clientes pagan solos en tu portal, y la facturación recurrente corre automáticamente a través de tu cuenta de Stripe."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Empieza a construir ingresos recurrentes hoy.",
+      "subtitle": "14 días de prueba gratis. Se requiere tarjeta para iniciar. Cancela cuando quieras.",
+      "secondary": "Iniciar sesión",
+      "trust": ["Sin conocimientos técnicos", "Quédate con el 100% de tus clientes", "Listo en unos 15 minutos"]
+    }
+  }
+}
